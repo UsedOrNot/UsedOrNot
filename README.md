@@ -26,10 +26,17 @@ A web application that allows users to compare products from eBay and Zappos.
 1. Clone the repository.
 2. Install the dependencies.
 pip install -r requirements.txt
-Run the application.
+3. Configure API keys:
+* Obtain API keys for eBay and Zappos APIs.
+* Create a .env file in the project directory.
+* Add the API keys to the .env file
+4. Run the application.
 python app.py
-Usage
-The application can be used to compare products from eBay and Zappos. To do this, simply enter the product you are looking for in the search bar and click on the search button. The results will be displayed side-by-side, with the products from eBay on the left and the products from Zappos on the right.
+
+## Usage
+The application can be used to compare products from eBay and Zappos. 
+To do this, simply enter the product you are looking for in the search bar and click on the search button. 
+The results will be displayed side-by-side, with the products from eBay on the left and the products from Zappos on the right.
 
 The application also has a menu bar with buttons to take back to the home page, check search history, and contact us.
 
