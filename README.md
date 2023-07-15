@@ -31,7 +31,7 @@ pip install -r requirements.txt
 * Create a .env file in the project directory.
 * Add the API keys to the .env file
 4. Run the application.
-python app.py
+* python app.py
 
 ## Usage
 The application can be used to compare products from eBay and Zappos. 
